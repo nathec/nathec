@@ -17,5 +17,5 @@
 
 ### :man_technologist: About Me :
   I am a graduate process system engineer with an **MSc from Cranfield University Uk**
-  ,an Energy Analyst and currenlty completing an Udacity Data Analyst program to utilise data analysis skills in the energy sector.
+  ,currenlty completing an Udacity Data Analyst program to acquire data analysis skill to utilise it in the energy sector.
  
